@@ -1,0 +1,11 @@
+# Source files #
+###################
+*.swp
+*.class
+
+# Eclipse files #
+###################
+.settings/
+.classpath
+.project
+.metadata
