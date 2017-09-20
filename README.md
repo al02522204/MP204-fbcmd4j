@@ -1,10 +1,23 @@
 # MP204-fbcmd4j
-Repositorio evidencia 1
+Repositorio evidencia java
+###########
+Instalacion
 
-Instalacion:
+Por definir: Agregar proceso de instalacion
 
-Uso:
+###########
+Uso
 
-Creditos:
+Por definir: Instrucciones de uso
 
-Licencia: 
+###########
+Creditos
+
+Moises Pequeño
+
+###########
+Licencia:
+
+MIT License
+
+Copyright (c) 2017 al02522204
